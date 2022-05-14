@@ -476,7 +476,6 @@ a {
 }
 
 .marg-text-accomodations {
-  margin-bottom: 45px;
   margin-top: 0px;
   font-weight: bold;
 }
@@ -808,7 +807,7 @@ a {
 /*SECTION 2 : ACTIVITIES*/
 
 #activities {
-  margin-top: 45px;
+  padding-top: 12px;
   margin-left: 3%;
   margin-right: 3%;
 }
@@ -817,7 +816,7 @@ a {
   display: flex;
   justify-content: space-between;
   height: 500px;
-  margin-top: 30px;
+  margin-top: 45px;
 }
 
 .big-container-activities {
@@ -963,7 +962,6 @@ a {
 
   #activities {
     height: auto;
-    margin-top: -20px;
     margin-left: 6.5%;
     margin-right: 6.5%;
   }
