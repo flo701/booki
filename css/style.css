@@ -167,7 +167,7 @@ a {
   margin-top: 30px;
   border-top: 1.5px solid #f2f2f2;
   border-bottom: 1.5px solid #f2f2f2; 
-  border-radius: 15px;
+  border-radius: 20px;
   position: relative;
 }
 
@@ -177,8 +177,8 @@ a {
   background-color: #f2f2f2;
   text-align: center;
   padding-top: 17px;
-  border-bottom-left-radius: 12px;
-  border-top-left-radius: 12px;
+  border-bottom-left-radius: 20px;
+  border-top-left-radius: 20px;
   position: absolute;
   top: -0.5px;
 }
@@ -199,7 +199,7 @@ a {
   height: 50px;
   background-color: #0065fc;
   color: white;
-  border-radius: 0 15px 15px 0;
+  border-radius: 0 20px 20px 0;
   border: none;
   position: absolute;
   right: 0px;
@@ -230,7 +230,7 @@ a {
   .search-button {
     width: 50px;
     height: 50.5px;
-    border-radius: 15px;
+    border-radius: 20px;
     padding-top:4px;
   }
 
