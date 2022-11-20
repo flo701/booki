@@ -19,7 +19,7 @@
   éléments ont été validés par l’équipe Produit, il est donc important de les
   respecter.
 
-### Spécifications fonctionnelles
+### Spécifications fonctionnelles :
 
 - Les usagers pourront rechercher des hébergements dans la ville de
   leur choix. Le champ de recherche est un champ de saisie, le texte
@@ -37,7 +37,7 @@
   des liens. Ils doivent mener respectivement vers la section
   “Hébergements à Marseille” et “Activités à Marseille”.
 
-### Spécifications techniques
+### Spécifications techniques :
 
 - Deux maquettes ont été réalisées : l’une desktop et l’autre mobile. Le
   site devra être également adapté aux formats tablette. Pour les
