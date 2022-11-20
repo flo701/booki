@@ -1,4 +1,4 @@
-![Logo Booki](assets/logo/Booki%403x.png)
+![Logo Booki](assets/logo/Booki.png)
 
 - Projet 2 du parcours "Développeur Web" d'OpenClassrooms.
 - "Transformez une maquette en site web avec HTML et CSS".
